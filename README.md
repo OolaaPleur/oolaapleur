@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm 24 years old and passionate about mobile app development! I'm currently learning Flutter. I am looking forward to make my career in mobile app development✨.
+I'm 24 years old and passionate about mobile app development! I'm currently learning Flutter. I am looking forward to make my career as developer✨.
 
 <!--
 **OolaaPleur/oolaapleur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
